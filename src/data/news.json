@@ -1,0 +1,36 @@
+{
+    "indexNews":{
+        "btnmoreS":"了解更多",
+        "btnmoreL":"查看更多最新消息"
+    },
+    "news":[
+        {
+            "id":"1",
+            "title":"最新消息的標題1",
+            "short":"最新消息文章內文Demo，最新消息的新聞好新好精彩。01",
+            "date":"2023/09/21",
+            "pic":"src/assets/images/news01.png"
+        },
+        {
+            "id":"2",
+            "title":"最新消息的標題2",
+            "short":"最新消息文章內文Demo，最新消息的新聞好新好精彩。02",
+            "date":"2023/08/20",
+            "pic":"src/assets/images/news02.png"
+        },
+        {
+            "id":"3",
+            "title":"最新消息的標題3",
+            "short":"最新消息文章內文Demo，最新消息的新聞好新好精彩。03",
+            "date":"2023/07/07",
+            "pic":"src/assets/images/news03.png"
+        },
+        {
+            "id":"4",
+            "title":"最新消息的標題4",
+            "short":"最新消息文章內文Demo，最新消息的新聞好新好精彩。04",
+            "date":"2023/05/31",
+            "pic":"src/assets/images/news01.png"
+        }
+    ]
+}

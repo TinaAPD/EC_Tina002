@@ -1,0 +1,32 @@
+{
+    "abouts":[
+        {
+            "id":"1",
+            "title":"Member",
+            "short":"100% 原裝產品， 這款新一代面膜是一款居家的臉部專用保養品，有效地去角質並修復毛孔瑕疵，去除細紋和皺紋。不含矽、生物可用配方具有高度飽水性，友善混合性肌膚，根據您的肌膚需求量身打造。",
+            "pic":"src/assets/images/about1.jpg",
+            "icon":"src/assets/images/icon-member.svg"
+        },
+        {
+            "id":"2",
+            "title":"Workstyle",
+            "short":"100% 原裝產品， 這款新一代面膜是一款居家的臉部專用保養品，有效地去角質並修復毛孔瑕疵，去除細紋和皺紋。不含矽、生物可用配方具有高度飽水性，友善混合性肌膚，根據您的肌膚需求量身打造。",
+            "pic":"src/assets/images/about2.jpg",
+            "icon":"src/assets/images/icon-board.svg"
+        },
+        {
+            "id":"3",
+            "title":"Brand Concept",
+            "short":"100% 原裝產品， 這款新一代面膜是一款居家的臉部專用保養品，有效地去角質並修復毛孔瑕疵，去除細紋和皺紋。不含矽、生物可用配方具有高度飽水性，友善混合性肌膚，根據您的肌膚需求量身打造。",
+            "pic":"src/assets/images/about3.jpg",
+            "icon":"src/assets/images/icon-hand.svg"
+        },
+        {
+            "id":"4",
+            "title":"Quality",
+            "short":"100% 原裝產品， 這款新一代面膜是一款居家的臉部專用保養品，有效地去角質並修復毛孔瑕疵，去除細紋和皺紋。不含矽、生物可用配方具有高度飽水性，友善混合性肌膚，根據您的肌膚需求量身打造。",
+            "pic":"src/assets/images/about4.jpg",
+            "icon":"src/assets/images/icon-leaf.svg"
+        }
+    ]
+}

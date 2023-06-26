@@ -1,0 +1,150 @@
+html,body{
+    scroll-behavior: smooth;
+}
+html {
+  font-size: $font-size-base;
+}
+body{
+  padding: 105px 0 0 0;
+  border: 0;
+  margin: 0;
+  overflow-x: hidden;
+  line-height: 1.6;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+}
+a {
+  text-decoration: none;
+  cursor: pointer;
+  &:hover {
+    text-decoration: none;
+  }
+  &:focus {
+    outline: 0;
+    outline-offset: 0;
+    text-decoration: none;
+  }
+}
+.inner-content {
+  margin: 70px 0;
+}
+.inner-container,.container{
+  padding: 0;
+  margin: auto;
+  max-width: 1160px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.index-content {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.main-title{
+  text-align: center;
+  font-size: 1.5rem;
+  letter-spacing: 3px;
+  padding: 5vh 0;
+  p{
+    font-size: 1rem;
+  }
+  @include max-screen(991px){
+    font-size: 1.8rem;
+    p{
+      font-size: 1.2rem;
+    }
+  }
+}
+.social {
+  display: flex;
+  align-items: center;
+  &-list {
+    display: flex;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    border-radius: 5px;
+    margin-right: 15px;
+    font-size: 1.25rem;
+    &.facebook {
+      background: $facebook-color;
+    }
+    &.youtube {
+      background: $youtube-color;
+    }
+    &.twitter {
+      background: $twitter-color;
+    }
+    &.line {
+      background: $line-color;
+      align-items: center;
+    }
+    &.instagram {
+      background: $instagram-color;
+    }
+    &.skype {
+      background: $skype-color;
+    }
+    a {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+    }
+    &:hover,
+    &:focus {
+      @extend %link-hover;
+    }
+  }
+}
+
+.fixed-action-btn {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 12%;
+  .box1,.box3{
+    flex-basis: 40%;
+  }
+  .box2{
+    flex-basis: 20%;
+    position: relative;
+    &:before{
+      content: "";
+      width: 15px;
+      height: 15px;
+      border: 1px solid #222;
+      border-radius: 50%;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%,-50%);
+      box-shadow: 0 0 0 1px #aaa;
+    }
+  }
+  .box3{
+    position: relative;
+    a{
+      font-size: 10px;
+      writing-mode: vertical-lr;
+      padding: 4em 0;
+      border-left: 1px solid #222;
+      position: absolute;
+      top: 38%;
+      left: 55%;
+      transform: translate(-50%,-50%);
+      &:after{
+        content: "";
+        width: 5px;
+        height: 5px;
+        border-top: 1px solid #222;
+        border-right: 1px solid #222;
+        position: absolute;
+        left: -3px;
+        top: 0;
+        transform: rotate(-45deg);
+      }
+    }
+  }
+}

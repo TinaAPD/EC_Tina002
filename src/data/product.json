@@ -1,0 +1,105 @@
+{
+    "indexIntro": {
+        "title": "我們個產品理念",
+        "txt": "我們的品牌理念是提供天然、無毒、可持續的美容產品，以促進個人護理和環境保護的協調發展。我們相信健康皮膚是美麗的基礎，因此我們採用優質的天然成分，避免使用有害化學物質，並通過嚴格的生產過程確保我們的產品安全和高效。同時，我們致力於推動可持續的生產和消費模式，減少對環境的負面影響，藉此啟發人們採取更健康、更環保的生活方式，建立一個更美好的世界。",
+        "btnmore": "查看更多"
+    },
+    "products": [
+        {
+            "id": "1",
+            "name": "植物精油保養體驗組",
+            "model": "Product 10ml 70% + oil",
+            "short": "100% 原裝產品， 這款新一代面膜是一款居家的臉部專用保養品，有效地去角質並修復毛孔瑕疵，去除細紋和皺紋。不含矽、生物可用配方具有高度飽水性，友善混合性肌膚，根據您的肌膚需求量身打造。",
+            "price": "1200",
+            "oldprice": "1600",
+            "pic": [
+                "src/assets/images/pddemo1.png",
+                "src/assets/images/pddemo2.png",
+                "src/assets/images/pddemo3.png"
+            ]
+        },
+        {
+            "id": "2",
+            "name": "植物精油保養體驗組2",
+            "model": "Product 10ml 70% + oil",
+            "short": "100% 原裝產品， 這款新一代面膜是一款居家的臉部專用保養品，有效地去角質並修復毛孔瑕疵，去除細紋和皺紋。不含矽、生物可用配方具有高度飽水性，友善混合性肌膚，根據您的肌膚需求量身打造。",
+            "price": "1200",
+            "oldprice": "1600",
+            "pic": [
+                "src/assets/images/pddemo2.png",
+                "src/assets/images/pddemo2.png",
+                "src/assets/images/pddemo3.png"
+            ]
+        },
+        {
+            "id": "3",
+            "name": "植物精油保養體驗組",
+            "model": "Product 10ml 70% + oil",
+            "short": "100% 原裝產品， 這款新一代面膜是一款居家的臉部專用保養品，有效地去角質並修復毛孔瑕疵，去除細紋和皺紋。不含矽、生物可用配方具有高度飽水性，友善混合性肌膚，根據您的肌膚需求量身打造。",
+            "price": "1200",
+            "oldprice": "1600",
+            "pic": [
+                "src/assets/images/pddemo3.png",
+                "src/assets/images/pddemo2.png",
+                "src/assets/images/pddemo3.png"
+            ]
+        },
+        {
+            "id": "4",
+            "name": "植物精油保養體驗組",
+            "model": "Product 10ml 70% + oil",
+            "short": "100% 原裝產品， 這款新一代面膜是一款居家的臉部專用保養品，有效地去角質並修復毛孔瑕疵，去除細紋和皺紋。不含矽、生物可用配方具有高度飽水性，友善混合性肌膚，根據您的肌膚需求量身打造。",
+            "price": "1200",
+            "oldprice": "1600",
+            "pic": [
+                "src/assets/images/pddemo6.png",
+                "src/assets/images/pddemo2.png",
+                "src/assets/images/pddemo3.png"
+            ]
+        },
+        {
+            "id": "5",
+            "name": "植物精油保養體驗組",
+            "model": "Product 10ml 70% + oil",
+            "short": "100% 原裝產品， 這款新一代面膜是一款居家的臉部專用保養品，有效地去角質並修復毛孔瑕疵，去除細紋和皺紋。不含矽、生物可用配方具有高度飽水性，友善混合性肌膚，根據您的肌膚需求量身打造。",
+            "price": "1200",
+            "oldprice": "1600",
+            "pic": [
+                "src/assets/images/pddemo1.png",
+                "src/assets/images/pddemo2.png",
+                "src/assets/images/pddemo3.png"
+            ]
+        },
+        {
+            "id": "6",
+            "name": "植物精油保養體驗組",
+            "model": "Product 10ml 70% + oil",
+            "short": "100% 原裝產品， 這款新一代面膜是一款居家的臉部專用保養品，有效地去角質並修復毛孔瑕疵，去除細紋和皺紋。不含矽、生物可用配方具有高度飽水性，友善混合性肌膚，根據您的肌膚需求量身打造。",
+            "price": "1200",
+            "oldprice": "1600",
+            "pic": [
+                "src/assets/images/pddemo2.png",
+                "src/assets/images/pddemo2.png",
+                "src/assets/images/pddemo3.png"
+            ]
+        }
+    ],
+    "pdList": [
+        {
+            "category1": "PRODUCT 01",
+            "category2": ["PRODUCT 1-1", "PRODUCT 1-2"]
+        },
+        {
+            "category1": "PRODUCT 02",
+            "category2": ["PRODUCT 2-1", "PRODUCT 2-2", "PRODUCT 2-3"]
+        },
+        {
+            "category1": "PRODUCT 03",
+            "category2": ["PRODUCT 3-1", "PRODUCT 3-2", "PRODUCT 3-3", "PRODUCT 3-4"]
+        },
+        {
+            "category1": "PRODUCT 04",
+            "category2": ["PRODUCT 4-1", "PRODUCT 4-2", "PRODUCT 4-3", "PRODUCT 4-4", "PRODUCT 4-5"]
+        }
+    ]
+}

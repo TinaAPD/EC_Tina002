@@ -1,0 +1,6 @@
+{
+    "banner":[
+        {"id":"1","title":"TYPE THE TEXT HERE !!","imgsrc":"src/assets/images/index-banner.jpg"},
+        {"id":"2","title":"TYPE THE TEXT HERE","imgsrc":"src/assets/images/contact-bg.jpg"}
+    ]
+}

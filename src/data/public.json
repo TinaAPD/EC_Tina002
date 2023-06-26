@@ -1,0 +1,38 @@
+{
+    "menus":[
+        { "title": "首頁", "link": "/" },
+        { "title": "最新消息", "link": "/news" },
+        { "title": "嚴選商品", "link": "/products" },
+        { "title": "媒體報導", "link": "#report.html" },
+        { "title": "關於我們", "link": "#about.html" },
+        { "title": "聯絡我們","link": "#contact.html" }
+    ],
+    "mainTitle":{
+        "home": {"zh": "首頁", "en":"Home"} ,
+        "news": {"zh": "最新消息", "en":"News"},
+        "product": {"zh": "嚴選商品", "en":"Featured collections"} ,
+        "press": {"zh": "媒體報導", "en":"Press kit"} ,
+        "about": {"zh": "關於我們", "en":"About us"} ,
+        "contact": {"zh": "聯絡我們", "en":"Contact Us"} ,
+        "faq": {"zh": "常見問答", "en":"Frequently Asked Questions"} 
+    },
+    "footer":{
+        "imgsrc":"src/assets/images/logo-f.svg",
+        "short":"熟悉各大網路媒體特性，引入國外最新行銷趨勢，致力於替您量身打造全方位數位整合行銷策略，是您最值得信賴的數位媒體策略顧問！",
+        "contact":[
+            {
+                "title":"聯絡資訊 [A]",
+                "phone":"02-23456789",
+                "address":"台北市南港區三重路19之6號",
+                "mail":"service@taipeiads.com"
+            },
+            {
+                "title":"聯絡資訊 [B]",
+                "phone":"02-87654321",
+                "address":"台北市南港區三重路19-6號C棟",
+                "mail":"service@taipeiads.com"
+            }
+        ],
+        "copyright":"© Taipei Digital Advertising Inc. All Rights Reserved"
+    }
+}
